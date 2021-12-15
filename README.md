@@ -20,7 +20,7 @@
 </h3>
 Stworzony w celu przygotowania uczniów do egzaminu kwalifikacyjnego Montarz i eksploatacja komputerów (E12)
 Czwiceniowa strona stworzona w technikumie pozwoliła mi nauczyć się podzstawowych rzeczy HTML i CSS
-<br>
+<hr>
 
 <h3>
   <i>
@@ -28,8 +28,7 @@ Czwiceniowa strona stworzona w technikumie pozwoliła mi nauczyć się podzstawo
   </i>
 </h3>
 Strona zawierająca informacje na różny tematy egzaminu E12 rózne informacje o bramkach, komendach Linux, CMD i pytanek na które odrazu podaję sie ogólna odpowiedż. Oddzieloe zadania z rysunkami rożnych pytań
-
-<br>
+<hr>
 
 <h3>
   <i>
@@ -37,14 +36,32 @@ Strona zawierająca informacje na różny tematy egzaminu E12 rózne informacje 
   </i>
 </h3>
 Project stworzny przez:
-<br>
-- HTML
-- CSS
+<ul type="circle">
+     <li>HTML</li>
+     <li>CSS</li>
+</ul>
 <br>
 Stworzony w programie:
-<br>
-- Google Chrome
-- Sublime Text 3 Version 3.2.2
+<ul type="circle">
+     <li>Google Chrome</li>
+     <li>Sublime Text 3 Version 3.2.2</li>
+</ul>
+<hr>
+
+<h3>
+  <i>
+  Cechy
+  </i>
+</h3>
+<ul>
+     <li>Strona z komendami Linux</li>
+     <li>Strona z komendami CMD Windows</li>
+     <li>Pytania i pozszezone odpowiedzi</li>
+     <li>Informacja o bramkach</li>
+     <li>Pytania z rysunkami</li>
+     <li>Strona z zadaniami praktcznymi</li>
+</ul>
+<hr>
 
 <h3>
   <i>
@@ -53,7 +70,8 @@ Stworzony w programie:
 </h3>
 Program ma minimalne wymaganie sprzętowe<br>
 Pobrać pliki do jednego folderu i urucomić index.html lub przez prawy przycisk uruchomić przez Google & Opera...
-
+<hr>
+<br>
 <h2>
   Zrzuty ekranu
 </h2>
