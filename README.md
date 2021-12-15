@@ -19,7 +19,7 @@
   </i>
 </h3>
 Stworzony w celu przygotowania uczniów do egzaminu kwalifikacyjnego Montarz i eksploatacja komputerów (E12)
-Czwiceniowa strona pozwoliła mi nauczyć się pisać na HTML i CSS na studiach i przygotować się do zbliżającego się egzaminu
+Czwiceniowa strona stworzona w technikumie pozwoliła mi nauczyć się podzstawowych rzeczy HTML i CSS
 <br>
 
 <h3>
