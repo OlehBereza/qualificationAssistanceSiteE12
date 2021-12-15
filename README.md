@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.freelogovectors.net/svg08/quiz-logo.svg" />
+  <img src="https://github.com/OlehBereza/QualificationAssistanceSiteE12/blob/main/images/banner.jpg?raw=true" />
 </p>
 
 <i>
